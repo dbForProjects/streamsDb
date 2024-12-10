@@ -1,0 +1,173 @@
+{
+  "streams": [
+      {
+    "id": 1,
+    "username": "Black Ninja",
+    "image": "https://themedox.com/mykd/wp-content/uploads/2023/10/team02.png",
+    "followers": "8.95K",
+    "rate": 3.2,
+    "monthly_watchers": "5K",
+    "current_watchers": "5K",
+    "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-02.jpg",
+    "play_hours": 4565,
+    "stream_hours": 46,
+    "game_name": "Trove",
+    "link": "https://www.youtube.com/watch?v=r6LxWRdXaJs",
+    "prev_streams": [
+      {
+        "id": 1,
+        "game_name": "Noah's Heart",
+        "watchers": "2.6K",
+        "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-02.jpg",
+        "stream_link": "https://www.youtube.com/watch?v=r6LxWRdXaJs"
+      },
+      {
+        "id": 2,
+        "game_name": "Destiny 2",
+        "watchers": "4K",
+        "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-03.jpg",
+        "stream_link": "https://www.youtube.com/watch?v=fS25_dfVLVs"
+      },
+      {
+        "id": 3,
+        "game_name": "Trove",
+        "watchers": "10K",
+        "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-01.jpg",
+        "stream_link": "https://www.youtube.com/watch?v=Nu7K23acLe0"
+      },
+      {
+        "id": 4,
+        "game_name": "Trove",
+        "watchers": "10K",
+        "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-01.jpg",
+        "stream_link": "https://www.youtube.com/watch?v=Nu7K23acLe0"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "Gamezer",
+    "image": "https://themedox.com/mykd/wp-content/uploads/2023/10/team01.png",
+    "followers": "1.5M",
+    "rate": 4.6,
+    "monthly_watchers": "16K",
+    "current_watchers": "16K",
+    "game_name": "Destiny 2",
+    "play_hours": 7896,
+    "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-03.jpg",
+    "stream_hours": 83,
+    "link": "https://www.youtube.com/watch?v=vEdRScsF0s0&pp=ygUOZ2Vuc2hpbiBpbXBhY3Q%3D",
+    "prev_streams": [
+      {
+        "id": 1,
+        "game_name": "Noah's Heart",
+        "watchers": "2.6K",
+        "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-02.jpg",
+        "stream_link": "https://www.youtube.com/watch?v=r6LxWRdXaJs"
+      },
+      {
+        "id": 2,
+        "game_name": "Destiny 2",
+        "watchers": "4K",
+        "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-03.jpg",
+        "stream_link": "https://www.youtube.com/watch?v=fS25_dfVLVs"
+      },
+      {
+        "id": 3,
+        "game_name": "Trove",
+        "watchers": "10K",
+        "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-01.jpg",
+        "stream_link": "https://www.youtube.com/watch?v=Nu7K23acLe0"
+      },
+      {
+        "id": 4,
+        "game_name": "Trove",
+        "watchers": "10K",
+        "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-01.jpg",
+        "stream_link": "https://www.youtube.com/watch?v=Nu7K23acLe0"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "username": "Alley Boss",
+    "game_name": "Noah's Heart",
+    "image": "https://themedox.com/mykd/wp-content/uploads/2023/10/team03.png",
+    "followers": "3.2M",
+    "rate": 4.9,
+    "monthly_watchers": "150K",
+    "current_watchers": "150K",
+    "play_hours": 9456,
+    "stream_hours": 74,
+    "thumbnail": ""https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-01.jpg",
+    "link": "https://www.youtube.com/watch?v=sxMmB5Dp8_s&pp=ygUOZ2Vuc2hpbiBpbXBhY3Q%3D",
+    "prev_streams": [
+      {
+        "id": 1,
+        "game_name": "Noah's Heart",
+        "watchers": "2.6K",
+        "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-02.jpg",
+        "stream_link": "https://www.youtube.com/watch?v=r6LxWRdXaJs"
+      },
+      {
+        "id": 2,
+        "game_name": "Destiny 2",
+        "watchers": "4K",
+        "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-03.jpg",
+        "stream_link": "https://www.youtube.com/watch?v=fS25_dfVLVs"
+      },
+      {
+        "id": 3,
+        "game_name": "Trove",
+        "watchers": "10K",
+        "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-01.jpg",
+        "stream_link": "https://www.youtube.com/watch?v=Nu7K23acLe0"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "username": "player007",
+    "image": "https://themedox.com/mykd/wp-content/uploads/2023/10/team04.png",
+    "followers": "6K",
+    "monthly_watchers": "3.4K",
+    "current_watchers": "3.4K",
+    "play_hours": 3088,
+    "rate": 3.7,
+    "game_name": "Trove",
+    "stream_hours": 55,
+    "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-02.jpg",
+    "link": "https://www.youtube.com/watch?v=QdBZY2fkU-0&pp=ygUOZ2Vuc2hpbiBpbXBhY3Q%3D",
+    "prev_streams": [
+      {
+        "id": 1,
+        "game_name": "Noah's Heart",
+        "watchers": "2.6K",
+        "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-02.jpg",
+        "stream_link": "https://www.youtube.com/watch?v=r6LxWRdXaJs"
+      },
+      {
+        "id": 2,
+        "game_name": "Destiny 2",
+        "watchers": "4K",
+        "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-03.jpg",
+        "stream_link": "https://www.youtube.com/watch?v=fS25_dfVLVs"
+      },
+      {
+        "id": 3,
+        "game_name": "Trove",
+        "watchers": "10K",
+        "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-01.jpg",
+        "stream_link": "https://www.youtube.com/watch?v=Nu7K23acLe0"
+      },
+      {
+        "id": 4,
+        "game_name": "Trove",
+        "watchers": "10K",
+        "thumbnail": "https://templatemo.com/templates/templatemo_579_cyborg_gaming/assets/images/featured-01.jpg",
+        "stream_link": "https://www.youtube.com/watch?v=Nu7K23acLe0"
+      }
+    ]
+  }
+  ]
+}
